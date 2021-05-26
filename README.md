@@ -8,7 +8,7 @@ Unit One Assignment_Miguel Correa
 
 * Propy is incorporated as "Propy Inc."
 * CEO and Founder, Natalia Karayaneva; Co-founder & VP of Business Development Denitza Tyufekchieva; CFO Maria Angelova. 
-* Propy is an end-to-end real estate transaction management platform that facilitates real estate transactions online. The the idea for the company (or project) come about when Founder Natalia Karayaneva, after 15 years experience as a real estate professional, grew frustrated with tedious tasks that could be streamlined and with the amount of fraud in real estate transactions.
+* Propy is an end-to-end real estate transaction management platform that facilitates real estate transactions online. The idea for the company (or project) come about when Founder Natalia Karayaneva, after 15 years experience as a real estate professional, grew frustrated with tedious tasks that could be streamlined and with the amount of fraud in real estate transactions.
 * Company had an Initial Coin Offer (ICO) in Aug. 2017. Venture capitalist investor Tim Draper has also provided funding in the most recent round of fundraising for the organization.
 * Propy did raise $15, 077, 000 USD with their ICO. The exact amount raised from Tim Draper and the total amount of funding has not been made available by Propy.
 
