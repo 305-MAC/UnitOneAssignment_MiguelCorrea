@@ -1,6 +1,5 @@
-# UnitOneAssignment_MiguelCorrea
-Unit One Assignment - Propy Inc.
-Unit One Assignment_Miguel Correa
+# UnitOneAssignment - Propy Inc. - by Miguel Correa
+---
 
 ## Overview and Origin
 ---
