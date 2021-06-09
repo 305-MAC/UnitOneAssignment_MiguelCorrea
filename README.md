@@ -12,7 +12,7 @@
 
 ## Business Activities
 
-* Propy's mission is to make real estate transactions faster, simpler and more secure by using FinTech innovations such as blockchain technology, smart contracts, and NFT's. Their ultimate goal is to automate the real estate sales process.
+* Propy's mission is to make real estate transactions faster, simpler and more secure by using FinTech innovations such as blockchain technology, smart contracts, and NFT's. According to CEO Natalia Karayaneva, "Our ultimate goal is to automate the real estate sales process."
 
 * Their intended customers include home buyers, home sellers, transaction coordinators, individual real estate agents, real estate brokerages, and title / escrow companies.
 * The market size of the U.S. real estate market in 2020 was $36.2 trillion.
