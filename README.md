@@ -2,7 +2,7 @@
 ---
 
 ## Overview and Origin
----
+
 * Propy
 
 * Propy is incorporated as "Propy Inc."
