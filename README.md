@@ -42,6 +42,8 @@
 * Technologies that would be utilized include blockchain, smart contracts, and cryptocurrency.
 * Blockchain is appropriate for my solution because it will be used to facilitate a quick, transparent, and safe transaction. Smart contracts can be used to easily track and confirm the agreed upon terms of the peer-to-peer funding. Cryptocurrency can be used to fund the transaction.
 
+---
+
 https://propy.com/browse/
 
 https://techcrunch.com/2021/05/25/blockchain-startup-propy-plans-first-ever-auction-of-a-real-apartment-as-a-collectible-nft/
