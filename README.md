@@ -13,9 +13,9 @@
 
 ## Business Activities
 
-* The companies mission is to make real estate transactions faster, simpler and more secure by using FinTech innovations such as blockchain technology, smart contracts, and NFT's. Their ultimate goal is to automate the real estate sales process.
+* Propy's mission is to make real estate transactions faster, simpler and more secure by using FinTech innovations such as blockchain technology, smart contracts, and NFT's. Their ultimate goal is to automate the real estate sales process.
 
-* The company's intended customers include home buyers, home sellers, transaction coordinators, individual real estate agents, real estate brokerages, and title / escrow companies.
+* Their intended customers include home buyers, home sellers, transaction coordinators, individual real estate agents, real estate brokerages, and title / escrow companies.
 * The market size of the U.S. real estate market in 2020 was $36.2 trillion.
 * The solution  this company offers that their competitors do not include eliminating the need for multiple systems for agents to manage their transactions, saving time with the ability to easily track all documents associated with a transaction, and security for document storage. 
 * Smart contracts allow completely online and self-driving real estate transactions. Non-Fungible Tokens are used to digitally certify ownership and secure trading of a physical property. Blockchain creates a smooth, transparent transaction with the ability to transfer real-world property ownership rights within minutes while offering higher secuirty and lower fraud risk than a traditional real estate transaction. Propy Utility Tokens (PRO) are used as an investment vehicle for users and partners in the Propy community. DocuSign is used to sign the purchase agreements.
